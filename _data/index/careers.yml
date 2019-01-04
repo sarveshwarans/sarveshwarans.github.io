@@ -14,7 +14,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - Client ENI
+    detail: Sapient - ENI
   desc:
     detail: >
       Project Details: To provide level 2 and level 3 support by continuously fixing the bugs in the production environment.
@@ -24,11 +24,6 @@
       • Worked as software developer and tester on multiple short-term projects with strict deadlines
       • Provided short-term and long-term fix for the issues based on the criticality and priority of the issue
       • Managed the release team to successfully release the builds into the production environment
-      Client: RWE
-      Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
-      Roles and Responsibilities:
-      • Developed custom scripts to transfer the data automatically to the newer version of the software with minimal manual intervention
-      • Assisted in development of the reconciliation tool to validate the correctness of the data in newer version.
   date:
     detail: Sept 2015 - Jul 2017, Bangalore, India
   job:
@@ -36,7 +31,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - Client RWE
+    detail: Sapient - RWE
   desc:
     detail: >
       Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
