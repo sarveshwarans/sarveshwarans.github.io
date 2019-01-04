@@ -18,7 +18,7 @@ author:  # change following line to your infomation.
   last_name: Sampathkumar  # Be used at index page about me section.
   avatar: /static/assets/img/landing/home_avatar.jpg  # upload your avatar at directory and edit it.
   github_username: sarveshwarans  # Leave blank if you don't have now
-  linkedin_id: # Leave blank if you don't have now
+  linkedin_id: sarveshwaran # Leave blank if you don't have now
   facebook_username: sarveshwarans  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   stackoverflow_id:  # Leave blank if you don't have now
