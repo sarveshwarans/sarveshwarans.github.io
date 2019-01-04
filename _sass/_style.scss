@@ -2504,9 +2504,11 @@ body {
     width: 100%;
     &.one {
       background: url(../assets/img/landing/Application-development.jpg) 50% 0 no-repeat;
+      background-position: center;
     }
     &.two {
       background: url(../assets/img/landing/programming-languages.jpg) 50% 0 no-repeat;
+      background-position: center;
     }
   }
   .carousel {
