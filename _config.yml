@@ -18,13 +18,13 @@ author:  # change following line to your infomation.
   last_name: Sampathkumar  # Be used at index page about me section.
   avatar: /static/assets/img/landing/home_avatar.jpg  # upload your avatar at directory and edit it.
   github_username: sarveshwarans  # Leave blank if you don't have now
-  linkedin_id: johnnycnchan # Leave blank if you don't have now
-  facebook_username: johnnychan0302  # Leave blank if you don't have now
-  twitter_username: jAtlas7  # Leave blank if you don't have now
-  stackoverflow_id: "4517234" # Leave blank if you don't have now
-  stackoverflow_name: atlas7  # Leave blank if you don't have now
-  home2_url: http://mathalope.co.uk # Leave blank if you don't have now
-  email: johnnychan0302@gmail.com  # Leave blank if you don't have now
+  linkedin_id: in/sarveshwaran # Leave blank if you don't have now
+  facebook_username: sarveshwarans  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  stackoverflow_id:  # Leave blank if you don't have now
+  stackoverflow_name: # Leave blank if you don't have now
+  home2_url: #http://mathalope.co.uk # Leave blank if you don't have now
+  email: sarveshswaran@gmail.com  # Leave blank if you don't have now
   cv: # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
