@@ -14,7 +14,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - Client: ENI
+    detail: Sapient - Client ENI
   desc:
     detail: >
       Project Details: To provide level 2 and level 3 support by continuously fixing the bugs in the production environment.
@@ -36,7 +36,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - Client: RWE
+    detail: Sapient - Client RWE
   desc:
     detail: >
       Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
