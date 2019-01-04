@@ -14,10 +14,9 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient 
+    detail: Sapient - Client: ENI
   desc:
     detail: >
-      Client: ENI
       Project Details: To provide level 2 and level 3 support by continuously fixing the bugs in the production environment.
       Roles and Responsibilities:
       • Developed custom scripts using Open JVS and Open AVS programming languages on Openlink Endur
@@ -37,115 +36,44 @@
   icon: fa-plus-square
 
 - name:
-    detail: Intel Software Innovator
+    detail: Sapient - Client: RWE
   desc:
     detail: >
-      As an Intel® Software Innovator affiliate I have access to new Intel technologies (software and hardware)
-      and initiatives on creating and demonstrating forward-looking projects. Some related projects of mine include:
-      fungai.org, Life++, and HPC with Intel Xeon Phi. Current research focus mainly around AI and IoT.
+      Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
+      Roles and Responsibilities:
+      • Developed custom scripts to transfer the data automatically to the newer version of the software with minimal manual intervention
+      • Assisted in development of the reconciliation tool to validate the correctness of the data in newer version.
   date:
-    detail: Oct 2015 - present, London
+    detail: Sept 2015 - Jul 2017, Bangalore, India
   job:
-    detail: Independent Developer, AI Specialist
+    detail: Associate Trading and Risk Management - Level 2 Sofware Developer
   icon: fa-plus-square
 
 - name:
-    detail: Dufrain Consulting | RBS
+    detail: Accenture - Client: SHELL
   desc:
     detail: >
-      Data Analytics Consultant at Royal Bank of Scotland (RBS) Commercial and Private Banking.
-      Owned the analytics and segmentation part of 3 high profile remediation projects.
-      Major tech stack: SAS, SQL, Oracle, Teradata, In-house credit risk systems
+      Project Details: To provide 24*7 support to the client by taking care of multiple End-of-Day process
+      Roles and Responsibilities:
+      • Handled multiple End-of-Day (EOD) process to ensure smooth running of the business without any interruptions
+      • Provided 24*7 level 1 and level 2 support to the client
+      • Provided support to other trading applications like Energy Credit and Credit Management, Shell Trading US Company etc. 
   date:
-    detail: May 2016 - Apr 2017, London
+    detail: Oct 2013 - Sept 2015, Bangalore, India
   job:
-    detail: Data Analytics Consultant
+    detail: Software Engineering Analyst 
   icon: fa-plus-square
 
 - name:
-    detail: Minboso
+    detail: Bachelors in Information Technology
   desc:
     detail: >
-      Developed a Ruby-on-rail web app prototype for a wellness startup company.
-      Tech stack: Ruby, Ruby-on-Rails, Heroku, PostgreSQL, SQLite3, Google App Engine (GAE), Google Datastore,
-      Python, Git, GitHub, Trello, JavaScript, jQuery, AJAX, Google Docs.
-  date:
-    detail: Jan 2016 - Apr 2016, London
-  job:
-    detail: Full-stack Developer
-  icon: fa-plus-square
+      Details about this goes here. 
 
-- name:
-    detail: 11 Hackathons over 11 weeks
-  desc:
-    detail: >
-      Took 3 months off and did 11 hackathons over 11 weeks.
-      Major highlights: 2nd place (5000 EURO) team award at the Allianz Connected Life Hackathon,best use of DARPA
-      open source tools in a Ministry of Defence (MoD) Hackathon, and meeting a bunch of long-term friends.
-      These experiences motivated me to become better in open source developments.
   date:
-    detail: Oct 2015 - Dec 2015, London
+    detail: Aug 2009 - Apr 2013, Tamil Nady, India
   job:
-    detail: Hackathon Competitor, Developer
-  icon: fa-plus-square
-
-- name:
-    detail: Citi, London
-  desc:
-    detail: >
-      Senior Data Analytics Developer and Assistant Vice President (AVP) of a large global investment bank at
-      Canary Wharf. Collaborated with a global remote team of tech and non-tech domain experts and senior
-      stakeholders based across London, New York, Singapore and Japan. Designed, developed and implemented the
-      global roll-out of a fully automated (SAS and SQL based) early-warning web reporting and forecast analytics
-      tool and process that helped protect the bank’s estate of 100,000 production systems from risk of overloading.
-      Used by 400+ global support teams to form preventative actions against the high risk cases. I also did many
-      other things at the earlier part at the bank - mostly within the technology and operation areas.
-      Tech Stack: SAS, SQL, Oracle, AutoSys Batch Scheduling, Windows / UNIX scripts, internal bank-wide databases.
-  date:
-    detail: Aug 2008 - Sep 2015, London
-  job:
-    detail: Assistant Vice President (AVP), Senior Data Analytics Developer, SAS Programmer
-  icon: fa-plus-square
-
-- name:
-    detail: Imperial College London
-  desc:
-    detail: >
-      MEng Aeronautical Engineering (2:1). All things aeroplanes such as aerodynamics (the airflow round the wings),
-      aircraft structures (the wings and body), thermodynamics (the engines), numerical simulation with programming
-      (Matlab and Fortran), Helicopter mechanics, incredible amount of maths and calculus, and finally a 4-month
-      ERASMAS exchange at Instituto Superior Técnico (IST) based in Lisbon/ Portugal - learning and writing up a thesis
-      on GPS. Met some amazing friends and surfed for the first time. During the earlier days I also did some
-      volunteering at the London Science Museum (building scientific databases) and Natural History Museum
-      (dissecting mosquitoes samples for malaria researches).
-  date:
-    detail: Aug 2004 - Aug 2008, London
-  job:
-    detail: Aeronautical Engineer, Undergraduate
-  icon: fa-plus-square
-
-- name:
-    detail: Cathay Pacific Airways
-  desc:
-    detail: >
-      Engineer at Cathay Pacific Engineering Department (Power-plant Team), with a focus on ensuring all
-      the aircraft engines are well maintained and ready to serve the fleets.
-  date:
-    detail: Jul 2007 - Aug 2008, Hong Kong
-  job:
-    detail: Aeronautical Engineer, Summer Intern
-  icon: fa-plus-square
-
-- name:
-    detail: Rolls Royce
-  desc:
-    detail: >
-      As a result of winning a short essay writing competition I was invited to a 3-week design workshop hosted
-      by Rolls-Royce, University of Sheffield and the European Association of Aerospace Students (EUROAVIA).
-  date:
-    detail: Jul 2007 - Jul 2007, Derby (UK)
-  job:
-    detail: Aerospace Engineer, EUROAVIA Project Team
+    detail: Undergraduate Student at RMD Engineering College affiliated to Anna University
   icon: fa-plus-square
 
 #- name:
